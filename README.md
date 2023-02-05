@@ -11,6 +11,7 @@ A simple CCT Led strip driver with IR remote
 - Soft turn-on and turn-off
 - Has constant supply current regulation (ultimately the brightness depends on the input voltage)
 - Can handle up to ~50W of total maximum output power for 12V led strip (2A per channel)
+
 Higher input voltage can be used, up to 24V, assuming the appropriate input capacitor voltage and proper power consumption calibration.
 
 The driver is supposed to be used with this kind of generic 21-key IR remote:
